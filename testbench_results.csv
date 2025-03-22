@@ -1,0 +1,4 @@
+feature,num_tokens,has_always,gen_time_sec
+Detects Load-Use Hazards Correctly,971,False,78.53
+Does Not Stall When No Hazard Exists,971,False,78.43
+Handles Consecutive Dependencies Properly,971,False,78.47
